@@ -1,8 +1,10 @@
 body {
-    background-color: beige;
+    /* background-color: #794448 ; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvE38NS9x27w8A3Y5uSgxe6Q35VEATi1UuBg&usqp=CAU");
 }
 
 .container {
+    /* background-color: #795548; */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -11,6 +13,7 @@ body {
 }
 /* Card 1 */
 .card1 {
+    background-color: beige;
     margin: 40px;
     max-width: 300px;
     border: solid 5px black;
@@ -19,18 +22,28 @@ body {
     display: flexbox;
     justify-content: center;
     word-wrap: break-word;
+    font-family: 'Questrial', sans-serif;
 }
 
 .card1 h2 {
+    font-family: 'Acme', sans-serif;
+    font-size: 3em;
+    text-align: center;
     justify-content: center;
-    border-bottom: solid 1px lightblue;
+    border-bottom: solid 10px lightblue;
 }
 
-card1 h3 {
+.card1 h3 {
     font-weight: bold;
 }
 
+.card1 footer {
+    font-size: .8em;
+}
+
 .availability {
+    font-size: 2em;
+    border: solid 3px hotpink;
     background-color: grey;
     color: yellow;
 }
