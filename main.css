@@ -11,12 +11,20 @@ body {
     padding: 20px;
     text-align: center;
 }
+/* SOLD OUT IMAGE */
 
+.soldout {
+    justify-content: flex-start;
+    height: 300px;
+    position: absolute;
+    z-index: 2;
+}
 
 /* Card 1 */
 .card1 {
     position: relative;
     z-index: 1;
+    top: 10px;
     background-color: beige;
     margin: 40px;
     max-width: 300px;
@@ -52,15 +60,9 @@ body {
     color: yellow;
 }
 
-.soldout {
-    display: flex;
-    height: 300px;
-    justify-content: center;
-    position: absolute;
-    z-index: 2;
-}
+
 /* Card 2 */
-.card2 {
+/* .card2 {
     position: relative;
     z-index: 1;
     background-color: beige;
@@ -96,4 +98,4 @@ body {
     border: solid 3px hotpink;
     background-color: grey;
     color: yellow;
-}
+} */
