@@ -36,8 +36,8 @@ body {
     max-width: 300px;
     border: solid 5px black;
     border-radius: 30px;
-    box-shadow: 0 4px 40px 0 rgba(0, 0, 0, 0.2);
-    display: flexbox;
+    box-shadow: 0px 20px 20px 0px blueviolet;
+    display: flfexbox;
     justify-content: center;
     word-wrap: break-word;
     font-family: 'Questrial', sans-serif;
@@ -77,7 +77,7 @@ body {
     max-width: 300px;
     border: solid 5px black;
     border-radius: 30px;
-    box-shadow: 0 4px 40px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 20px 20px 0px blueviolet;
     display: flexbox;
     justify-content: center;
     word-wrap: break-word;
@@ -117,7 +117,7 @@ body {
     max-width: 300px;
     border: solid 5px black;
     border-radius: 30px;
-    box-shadow: 0 4px 40px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 20px 20px 0px blueviolet;        
     display: flexbox;
     justify-content: center;
     word-wrap: break-word;
@@ -156,7 +156,7 @@ body {
     max-width: 300px;
     border: solid 5px black;
     border-radius: 30px;
-    box-shadow: 0 4px 40px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 20px 20px 0px blueviolet;
     display: flexbox;
     justify-content: center;
     word-wrap: break-word;
@@ -196,7 +196,7 @@ body {
     max-width: 300px;
     border: solid 5px black;
     border-radius: 30px;
-    box-shadow: 0 4px 40px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 20px 20px 0px blueviolet;
     display: flexbox;
     justify-content: center;
     word-wrap: break-word;
